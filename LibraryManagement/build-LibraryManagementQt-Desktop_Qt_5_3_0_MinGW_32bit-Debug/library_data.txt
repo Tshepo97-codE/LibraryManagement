@@ -1,0 +1,2 @@
+Book|Hamlet|W. Shakespear|Drama|0||
+Book|Dune|KK. Palmer|Sci-Fi|0||
