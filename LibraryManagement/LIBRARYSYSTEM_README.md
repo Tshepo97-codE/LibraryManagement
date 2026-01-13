@@ -76,7 +76,7 @@ Magazine|National Geographic|Various|201|456|0||
 
 ```
 
-LibrarySystem/
+LibraryManagementQT_AppFile/
 ├── Book.h/cpp          - Book item implementation
 ├── Magazine.h/cpp      - Magazine item implementation
 ├── LibraryItem.h/cpp   - Base library item class
@@ -100,4 +100,5 @@ MIT License
 
 Developed by Tshepo Manyisa 
 For questions or support, please contact: 68447353@mylife.unisa.ac.za
+
 ```
