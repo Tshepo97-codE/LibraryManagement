@@ -1,5 +1,4 @@
-// 68447353
-// Tshepo Collen Manyisa
+
 
 #include <iostream>
 #include <vector> // could also use QList later in Qt
@@ -17,3 +16,4 @@ int main(int argc, char *argv[]) {
     w.show();
     return app.exec();
 }
+
